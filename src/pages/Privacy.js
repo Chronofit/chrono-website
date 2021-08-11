@@ -7,7 +7,7 @@ const Privacy = (props) => {
     <div className="privacy">
         <a href="/"><img src={back} className="privacy-back-button" alt="Back"/></a>
         <h1 className="privacy-title">Chrono Privacy Policy</h1>
-        <p><strong>Last Updated:</strong> January 7th 2021.</p>
+        <p><strong>Last Updated:</strong> August 7th 2021.</p>
         <hr></hr>
         <p>Thank you for using Chrono.</p>
         <p>Sai Vikranth Desu built the Chrono app as an Ad Supported app. This SERVICE is provided by Sai Vikranth Desu at no cost and is intended for use as is. This privacy policy is used to inform visitors regarding the ways in which we gather, use, process, and disclose personal information across the Chrono application. </p>
